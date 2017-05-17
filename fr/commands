@@ -1,0 +1,5 @@
+*TEMPER*SALON*==jv_pg_aj_temperature
+*HUMID*PLANTE*==jv_pg_aj_humidity
+*LUMIN*SALON*==jv_pg_aj_luminosity
+*PLANTE*BIEN*|*PLANTE*OK*==jv_pg_aj_plant_ok
+arduinoSayingSomeoneIsDetected==say "Je te vois !"
